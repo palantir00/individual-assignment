@@ -1,0 +1,3 @@
+timestamp,lang,algo,n,runs,block,mean_ms,stdev_ms,best_ms,est_GFLOP_s
+1761082044,cpp,naive,128,3,64,0.744889,0.203432,0.461417,5.63078
+1761082058,cpp,blocked,128,3,64,0.581417,0.0229869,0.563625,7.21394

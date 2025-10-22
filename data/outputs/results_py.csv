@@ -1,0 +1,2 @@
+timestamp,lang,algo,n,runs,block,mean_ms,stdev_ms,best_ms,est_GFLOP_s
+2025-10-21T21:21:07.898396,python,naive,128,3,64,157.972,3.401,154.512,0.027

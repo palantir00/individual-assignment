@@ -1,0 +1,4 @@
+/Users/martyna/Downloads/individual-assignment-matmul/cpp/build/CMakeFiles/matmul.dir
+/Users/martyna/Downloads/individual-assignment-matmul/cpp/build/CMakeFiles/matmul_bench.dir
+/Users/martyna/Downloads/individual-assignment-matmul/cpp/build/CMakeFiles/edit_cache.dir
+/Users/martyna/Downloads/individual-assignment-matmul/cpp/build/CMakeFiles/rebuild_cache.dir
